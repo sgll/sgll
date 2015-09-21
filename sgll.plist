@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://101.200.1.131/AppInstall/app/sgll.ipa</string>
+					<string>http://101.200.1.131/AppInstall/app/sgll-test.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ronglianenterprise.Doctor</string>
+				<string>com.ronglianenterprise.sgll</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
